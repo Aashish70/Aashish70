@@ -1,6 +1,11 @@
-### Hi there 👋, I'm Ashish Kumar
-
-
+<h1 align="center">Hi there <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px">, I'm Ashish kumar </h1>
+<p align="center">
+  
+<!--
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Machine+Learning+Engineer,;Dual-Degree-Aspirant,;Computer+Science+Student+MUJ,;Data+Science+Student+IIT-Madras,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+</p>
+-->
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 

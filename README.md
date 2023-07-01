@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ashish Kumar
 
 
-**Aashish70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 Here are some ideas to get you started:
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"width="30px">, I'm Ashish kumar </h1>
+<h1 align="center">Hi there👋, I'm Ashish and Welcome to my github profile </h1>
 <p align="center">
   
 <!--
